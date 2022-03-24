@@ -1,4 +1,4 @@
-# Admin Monitoring Workspace (Preview)
+# Admin Monitoring Workspace (preview)
    
 The Admin Monitoring workspace is a new workspace designed to provide administrators with monitoring capabilities for audit log data. 
 
@@ -13,11 +13,12 @@ The Admin Monitoring workspace is enabled for administrators directly through th
 
 - You will see a new option "Admin Monitoring" under "My workspace" as shown below
 
-  :::image type="content" source="media/audit-log-search/admin-monitoring-workspace.png" alt-text="Admin Monitoring Workspace":::
+  ![Admin Monitoring Workspace](media/admin-monitoring-workspace/admin-monitoring-workspace.png)
 
 - Clicking on "Admin Monitoring" will automatically install the required resources and artifacts for you in the workspace
 
-  :::image type="content" source="media/audit-log-search/installed-artifacts.png" alt-text="Installed Artifacts":::
+  ![Installed Artifacts](media/admin-monitoring-workspace/installed-artifacts.png)
+
 
 ## Artifacts in the Workspace
 
@@ -44,6 +45,4 @@ All the data is currently sourced from the raw dataset
 ## To Enable/Disable Export of Data to Excel
 
 - Go to the Admin portal and toggle the "Export Data" setting in [Tenant Admin Settings](https://docs.microsoft.com/en-us/power-bi/guidance/admin-tenant-settings#export-data)
-
-
 
