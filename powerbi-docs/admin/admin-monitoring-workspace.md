@@ -1,4 +1,4 @@
-# Admin Monitoring Workspace
+# Admin Monitoring Workspace (Preview)
    
 The Admin Monitoring workspace is a new workspace designed to provide administrators with monitoring capabilities for audit log data. 
 
@@ -9,7 +9,7 @@ The Admin Monitoring workspace is enabled for administrators directly through th
 - Log into [Power BI](https://app.powerbi.com/) with your account
 - Navigate to the Workspaces section as shown below
 
-  :::image type="content" source="media/audit-log-search/workspaces.png" alt-text="Workspaces Tab":::
+  ![Workspaces Tab](media/admin-monitoring-workspace/workspaces.png)
 
 - You will see a new option "Admin Monitoring" under "My workspace" as shown below
 
